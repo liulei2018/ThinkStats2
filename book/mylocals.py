@@ -10,4 +10,4 @@ from plasTeX import Command, Environment
 class exercise(Environment):
     pass
 
-print '******************************************************'
+print ('******************************************************')
